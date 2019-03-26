@@ -782,7 +782,7 @@ section{
 	/* text-align: center; */
 	/* margin-top: 500px; */
 	/* padding: 30px 0; */
-	/* background-color:rgb(238, 20, 20); */
+
 }
 
 .service .service-info{
@@ -792,7 +792,7 @@ section{
 	/* margin-left: 20px;
 	margin-right: 20px; */
 	/* text-align: center; */
-	/* background-color: rgb(77, 197, 21); */
+	
 }
 
 .service-info .col{
@@ -805,7 +805,7 @@ section{
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
-	/* background-color: yellow; */
+
 }
 
 .service-info .col img{
@@ -815,7 +815,7 @@ section{
 	right: 50%; */
 	/* height: auto; */
 	text-align: center;
-	/* background-color: blue; */
+
 }
 
 .col h3{
@@ -832,17 +832,11 @@ section{
 
 .team{
 	margin-top: 0;
-	/* margin-bottom: 160px; */
-	/* padding-bottom: 50px; */
-	/* padding: 20px; */ 
 	z-index: 99;
 	width: 100%;
 	height: auto;
 	font-style: oblique;
-	/* background: url(../images/PhysicsNobel.jpg);
-	background-position: center; */
-	/* background-size: 100%; */
-	background-color: rgb(48, 44, 44);
+	
 }
 
 .swiper-container {
@@ -855,7 +849,7 @@ section{
 	background-size: cover;
 	width: 300px;
 	height: 320px;
-	/* background: rgb(73, 26, 26); */
+
 
 }
 
@@ -868,7 +862,7 @@ section{
 }
 
 .imgBx{
-	/* background-color: rgb(28, 196, 56);	 */
+
 	height: 250px;
 	width: 250px;
 	padding-top: 20px;
@@ -889,7 +883,6 @@ section{
 	/* padding-right: 10px; */
 	height: 90%;
 	width: 90%;
-	/* background-color: red; */
 	position: center;
 }
 
