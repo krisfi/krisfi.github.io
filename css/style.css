@@ -782,7 +782,7 @@ section{
 	/* text-align: center; */
 	/* margin-top: 500px; */
 	/* padding: 30px 0; */
-	background-color:rgb(238, 20, 20);
+	/* background-color:rgb(238, 20, 20); */
 }
 
 .service .service-info{
@@ -792,7 +792,7 @@ section{
 	/* margin-left: 20px;
 	margin-right: 20px; */
 	/* text-align: center; */
-	background-color: rgb(77, 197, 21);
+	/* background-color: rgb(77, 197, 21); */
 }
 
 .service-info .col{
@@ -805,7 +805,7 @@ section{
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
-	background-color: yellow;
+	/* background-color: yellow; */
 }
 
 .service-info .col img{
